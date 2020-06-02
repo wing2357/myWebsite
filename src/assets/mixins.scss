@@ -1,0 +1,8 @@
+$theme-color: #d1274e;
+$text-color: #c7c7c7;
+$bg-color: #0e1015;
+
+@mixin border {
+    border-radius: 3px;
+    border: 1px solid #ededed;
+}
